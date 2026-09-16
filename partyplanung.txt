@@ -5,6 +5,6 @@ Trinken: Gin
 Snacks: Croissant
 =======
 Spiele:ANNA
-Trinken:
+Tddddddddddddd rinken:
 Snacks:
 >>>>>>> bcb18ab5c160dfcdf44a7f765222544c90dbb589
