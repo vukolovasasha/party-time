@@ -1,4 +1,10 @@
 TODO
+<<<<<<< HEAD
 Spiele: Murdoku
 Trinken: Gin
 Snacks: Croissant
+=======
+Spiele:ANNA
+Trinken:
+Snacks:
+>>>>>>> bcb18ab5c160dfcdf44a7f765222544c90dbb589
