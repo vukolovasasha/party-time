@@ -1,4 +1,4 @@
 TODO
-Spiele:
-Trinken:
-Snacks:
+Spiele: Murdoku
+Trinken: Gin
+Snacks: Croissant
